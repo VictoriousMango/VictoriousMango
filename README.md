@@ -40,3 +40,4 @@ Starting New
 
 ### Watch my contribution graph get eaten by the snake :🐍
 ![snake gif](https://github.com/victoriousmango/victoriousmango/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/victoriousmango/victoriousmango/blob/output/github-contribution-grid-snake-dark.gif)
